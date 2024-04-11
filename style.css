@@ -1,0 +1,9 @@
+body {
+    background-color: #262626;
+}
+
+#title {
+    color: green;
+    position: fixed;
+    font-size: 700%;
+}
